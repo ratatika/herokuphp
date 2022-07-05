@@ -1,0 +1,12 @@
+{
+    "name": "vendor_name/heroku",
+    "description": "description",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [{
+        "name": "Ritika Gurung",
+        "email": "20006092@myrp.edu.sg"
+    }],
+
+    "require": {}
+}
